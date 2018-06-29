@@ -1,0 +1,9 @@
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\bin\Debug\LSTABINT SERV.exe.config
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\bin\Debug\LSTABINT SERV.exe
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\bin\Debug\LSTABINT SERV.pdb
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\obj\Debug\LSTABINT SERV.csprojAssemblyReference.cache
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\obj\Debug\LSTABINT SERV.csproj.CoreCompileInputs.cache
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\obj\Debug\LSTABINT SERV.exe
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\obj\Debug\LSTABINT SERV.pdb
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\obj\Debug\LSTABINT_SERV.ProjectInstaller.resources
+c:\users\desarrollo4\source\repos\LSTABINT SERV\LSTABINT SERV\obj\Debug\LSTABINT SERV.csproj.GenerateResource.cache

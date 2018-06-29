@@ -1,0 +1,14 @@
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\bin\Debug\LSTABINT SERV.exe
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\bin\Debug\LSTABINT SERV.pdb
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\bin\Debug\LSTABINT SERV.exe.config
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\desarrollo4\source\repos\LSTABINT SERV\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
